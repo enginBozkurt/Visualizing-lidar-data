@@ -4,7 +4,8 @@ Visualizing lidar data using Uber  Autonomous Visualization System (AVS) and sim
 
 This project contains two different applications for visualizing lidar data using  KITTI Vision Benchmark Suite datasets.
 
-![ubPic](https://user-images.githubusercontent.com/30608533/58125546-7924eb00-7c19-11e9-93e1-c69c5465edb9.png)
+
+![notebook1](https://user-images.githubusercontent.com/30608533/58126353-75926380-7c1b-11e9-9be2-3b2e5177887e.jpg)
 
 
 
