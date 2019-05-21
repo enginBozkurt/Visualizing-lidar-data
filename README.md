@@ -8,11 +8,6 @@ This project contains two different applications for visualizing lidar data usin
 ![ubPic](https://user-images.githubusercontent.com/30608533/58125546-7924eb00-7c19-11e9-93e1-c69c5465edb9.png)
 
 
-![notebook1](https://user-images.githubusercontent.com/30608533/58126353-75926380-7c1b-11e9-9be2-3b2e5177887e.jpg)
-
-
-
-![lidar_frame](https://user-images.githubusercontent.com/30608533/58126787-6a8c0300-7c1c-11e9-8dd3-eb9f6b9e4e68.png)
 
 
 ## 1.  Uber AVS Autonomous Visualization System (AVS) ---  XVIZ (the data layer for AVS)
@@ -61,12 +56,19 @@ pip install pykitti
 | `utilities.py`         | Convenient logging routines.
 
 
+I have used one of the raw datasets available on [KITTI website](http://www.cvlibs.net/datasets/kitti/raw_data.php).
+
+
+2011_09_26_drive_0005 (0.6 GB) 
+
+**Length**: 160 frames (00:16 minutes)
+
+**Image resolution**: 1392 x 512 pixels
+
+**Labels**: 9 Cars, 3 Vans, 0 Trucks, 2 Pedestrians, 0 Sitters, 1 Cyclists, 0 Trams, 0 Misc
 
 
 
-
-
-
-
+![notebook1](https://user-images.githubusercontent.com/30608533/58126353-75926380-7c1b-11e9-9be2-3b2e5177887e.jpg)
 
 
