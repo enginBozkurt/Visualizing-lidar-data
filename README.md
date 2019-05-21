@@ -11,6 +11,7 @@ This project contains two different applications for visualizing lidar data usin
 ![notebook1](https://user-images.githubusercontent.com/30608533/58126353-75926380-7c1b-11e9-9be2-3b2e5177887e.jpg)
 
 
-![notebook2](https://user-images.githubusercontent.com/30608533/58126573-e6d21680-7c1b-11e9-9d5f-96ed22807b5d.jpg)
+
+![lidar_frame](https://user-images.githubusercontent.com/30608533/58126787-6a8c0300-7c1c-11e9-8dd3-eb9f6b9e4e68.png)
 
 
