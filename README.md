@@ -74,4 +74,8 @@ I have used one of the raw datasets available on [KITTI website](http://www.cvli
 ![5ce4618251634176609181](https://user-images.githubusercontent.com/30608533/58129044-96f64e00-7c21-11e9-9f7e-7a9b18930ff9.gif)
 
 
+## References:
+
+-  **Uber Xviz** A protocol for real-time transfer and visualization of autonomy data -  https://github.com/uber/xviz
+-  Alex Staravoitau     **Visualizing lidar data**  --- https://navoshta.com/kitti-lidar/
 
